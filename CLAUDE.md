@@ -28,7 +28,7 @@ This repository is in its initial setup phase.
 
 For now, focus on stage 1: creating the pipeline and dashboards. I know we are using (for now):
 - dataretrieval (USGS Water API)
-- pandas, numpy, requests, json, geopandas
+- pandas, numpy, requests, json, geopandas, dotenv, folium, map classify, dateutils, ipython
 
 ## Architecture
 Will be filled in once built
